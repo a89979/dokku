@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Site do André ',
+  tagline: 'o André é fixe',
   favicon: 'img/favicon.ico',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
