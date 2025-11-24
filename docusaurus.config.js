@@ -13,7 +13,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-  deploymentBranch: ’gh-pages’,
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
   
 
